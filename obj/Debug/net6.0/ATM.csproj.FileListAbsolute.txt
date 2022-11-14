@@ -1,0 +1,15 @@
+/Users/yuanbodeng/Desktop/C#/ATM/bin/Debug/net6.0/ATM
+/Users/yuanbodeng/Desktop/C#/ATM/bin/Debug/net6.0/ATM.deps.json
+/Users/yuanbodeng/Desktop/C#/ATM/bin/Debug/net6.0/ATM.runtimeconfig.json
+/Users/yuanbodeng/Desktop/C#/ATM/bin/Debug/net6.0/ATM.dll
+/Users/yuanbodeng/Desktop/C#/ATM/bin/Debug/net6.0/ATM.pdb
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.csproj.AssemblyReference.cache
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.AssemblyInfoInputs.cache
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.AssemblyInfo.cs
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.csproj.CoreCompileInputs.cache
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.dll
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/refint/ATM.dll
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.pdb
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ATM.genruntimeconfig.cache
+/Users/yuanbodeng/Desktop/C#/ATM/obj/Debug/net6.0/ref/ATM.dll
